@@ -1,11 +1,11 @@
 {
-    "name": "zuoan/filtering-of-sensitive-words",
+    "name": "zuoan-link/filtering-of-sensitive-words",
     "description": "filter sensitive words",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "zuoan",
+            "name": "zuoan-link",
             "email": "zuoanlink@163.com"
         }
     ],
